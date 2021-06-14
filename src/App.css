@@ -1,0 +1,13 @@
+main {
+  padding: 50px 350px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #1e2124 !important;
+  color: white;
+  text-align: center;
+}
